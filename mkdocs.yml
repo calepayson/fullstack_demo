@@ -1,3 +1,9 @@
 site_name: Fullstack Sandbox
+repo_url: https://github.com/calepayson/fullstack_demo
+dev_addr: "127.0.0.1:9001"
+
 nav:
   - Home: index.md
+
+theme:
+  name: material
